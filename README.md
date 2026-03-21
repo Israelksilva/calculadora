@@ -19,7 +19,8 @@ Uma calculadora web moderna com interface elegante e funcionalidades matemática
 
 ## 📸 Preview
 
-![Calculadora](./imagem.png)
+![Calculadora](<img width="391" height="477" alt="image" src="https://github.com/user-attachments/assets/568324fe-b2ee-4c63-87db-01177be4e287" />
+
 
 ## 📂 Como executar o projeto
 1. Clone o repositório:

@@ -26,3 +26,5 @@ Uma calculadora web moderna com interface elegante e funcionalidades matemática
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Israelksilva/calculadora.git
+## 📌 Autor
+Desenvolvido por Israel Silva

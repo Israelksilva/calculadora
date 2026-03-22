@@ -27,4 +27,4 @@ Uma calculadora web moderna com interface elegante e funcionalidades matemática
 ```bash
 git clone https://github.com/Israelksilva/calculadora.git
 ## 📌 Autor
-Desenvolvido por Israel Silva
+Desenvolvido por Israel Alcantara
